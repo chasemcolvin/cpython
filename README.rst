@@ -89,7 +89,7 @@ For example::
     make
     make test
 
-(This will fail if you *also* built at the top-level directory.  You should do
+(This will fail if you *also* build at the top-level directory.  You should do
 a ``make clean`` at the top-level first.)
 
 To get an optimized build of Python, ``configure --enable-optimizations``
